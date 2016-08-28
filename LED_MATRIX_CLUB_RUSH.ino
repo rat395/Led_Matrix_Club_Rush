@@ -72,7 +72,7 @@ void loop() {
           printByte(invader2a);
         }
 
-      delay(1200);
+      delay(200);
   }
 }
 
